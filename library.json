@@ -1,0 +1,29 @@
+{
+    "name": "persistent-storage",
+    "version": "0.1.0",
+    "description": "abstract class for persistent storage on an eeprom chip or using progmem",
+    "keywords": "storage, eeprom, flash",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/bernhardlang/persistent-storage.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Bernhard Lang",
+            "email": "bernhard.lang@gmx.ch",
+            "url": "www.bernhard-lang.net",
+            "maintainer": true
+        },
+        {
+            "name": "Dominique Lovy"
+        }
+    ],
+    "licence": "GPL2",
+    "homepage": "http://nowhere.x",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
